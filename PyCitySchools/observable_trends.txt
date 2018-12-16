@@ -1,0 +1,5 @@
+You must include a written description of at least two observable trends based on the data.
+
+1) Charter Schools dominated the top 5 schools in overall passing rate and District dominated the bottom 5.
+2) Larger school size and larger school spending doesn't represent efficiency. 
+   The lower spending ranges (per student: $585-$615, <$585) and size (1000-2000, <1000) yield best results.
